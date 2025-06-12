@@ -22,3 +22,7 @@ PROJECT: SMART LIGHT CONTROL
 
  Here we can use a timer and set a particular time limit to the light so that the light[bulb] glows based on that.For example,6pm-6am  Excatly at evening 6pm the bulb starts glowing and continues to glow until 6am the next day.
 
+ OUTPUT
+
+ https://github.com/SreeKeerthi05/CODTECH-task1/issues/1#issue-3139362620
+
